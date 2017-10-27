@@ -80,7 +80,7 @@ Once the model was trained with this additional data set, the vehicle is able to
 
 #### 2. Final Model Architecture
 
-The final model architecture (model.py lines 18-24) consisted of a convolution neural network with the following layers and layer sizes ...
+The final model architecture can be seen in the visualization below.
 
 Here is a visualization of the architecture (note: visualizing the architecture is optional according to the project rubric)
 
