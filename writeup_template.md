@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image1]: ./
 [image2]: ./centre_example.jpg "Centre Example"
 [image3]: ./centre_example_t2.jpg "Centre Example - Track 2"
-[image4]: ./examples/placeholder_small.png "Recovery Image"
+[image4]: ./output_DFkI7t.gif
 [image5]: ./examples/placeholder_small.png "Recovery Image"
 [image6]: ./examples/placeholder_small.png "Normal Image"
 [image7]: ./examples/placeholder_small.png "Flipped Image"
@@ -100,7 +100,7 @@ Then I repeated this process on track two in order to get more data points.
 
 The images were not flipped in the final design. However two more laps were recorded, specifically on recovering from the side of the road back to the centre. One lap was recorded recovering from the left and another lap to record recovering from the right hand side of the road.
 
-![alt text][image6]
+![alt text][image4]
 
 
 Finally the data was shuffled and 20% of the data was placed into a validation set. 
