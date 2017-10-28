@@ -120,10 +120,6 @@ Non-trainable params: 0
 
 ```
 
-The final model architecture can be seen in the visualization below.
-
-![alt text][image1]
-
 #### 3. Creation of the Training Set & Training Process
 
 To capture good driving behavior, I first recorded two laps on track one using center lane driving. Here is an example image of center lane driving:
