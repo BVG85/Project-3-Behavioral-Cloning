@@ -19,9 +19,9 @@ The goals / steps of this project are the following:
 [image2]: ./centre_example.jpg "Centre Example"
 [image3]: ./centre_example_t2.jpg "Centre Example - Track 2"
 [image4]: ./output_DFkI7t.gif
-[image5]: ./examples/placeholder_small.png "Recovery Image"
-[image6]: ./examples/placeholder_small.png "Normal Image"
-[image7]: ./examples/placeholder_small.png "Flipped Image"
+[image5]: ./left_cam.jpg "Left Camera Image" 
+[image6]: ./centre_cam.jpg "Centre Camera Image"
+[image7]: ./right_cam.jpg "Right Camera Image"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
@@ -100,7 +100,12 @@ Then I repeated this process on track two in order to get more data points.
 
 After training the model with some degree of success, the left and right camera images were incorporated with a correction factor of 0.3
 
+##### Left Camera Image
 ![alt text][image5]
+##### Centre Camera Image
+![alt text][image6]
+##### Right Camera Image
+![alt text][image7]
 
 The images were not flipped in the final design. However two more laps were recorded, specifically on recovering from the side of the road back to the centre. One lap was recorded recovering from the left and another lap to record recovering from the right hand side of the road.
 
