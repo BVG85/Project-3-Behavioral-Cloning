@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./centre_example.jpg "Model Visualization"
+[image1]: ./centre_example.jpg "Centre Example"
 [image2]: ./examples/placeholder.png "Grayscaling"
 [image3]: ./examples/placeholder_small.png "Recovery Image"
 [image4]: ./examples/placeholder_small.png "Recovery Image"
@@ -83,8 +83,6 @@ Once the model was trained with this additional data set, the vehicle is able to
 #### 2. Final Model Architecture
 
 The final model architecture can be seen in the visualization below.
-
-
 
 ![alt text][image1]
 
