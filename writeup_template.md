@@ -94,9 +94,13 @@ To capture good driving behavior, I first recorded two laps on track one using c
 
 Then two laps were recorded of the vehicle driving the track in reverse, using center lane driving.  
 
-Then I repeated this process on track two in order to get more data points.
+Then I repeated this process on track two in order to get more data points. 
 
 ![alt text][image3]
+
+After training the model with some degree of success, the left and right camera images were incorporated with a correction factor of 0.3
+
+![alt text][image5]
 
 The images were not flipped in the final design. However two more laps were recorded, specifically on recovering from the side of the road back to the centre. One lap was recorded recovering from the left and another lap to record recovering from the right hand side of the road.
 
