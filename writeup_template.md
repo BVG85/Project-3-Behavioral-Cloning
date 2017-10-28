@@ -1,6 +1,6 @@
 # **Behavioral Cloning** 
 
-![alt text](https://github.com/BVG85/Project-3-Behavioral-Cloning/edit/master/header.png)
+<img src="https://github.com/BVG85//Project-3-Behavioral-Cloning/blob/master/header.png">
 ---
 
 **Behavioral Cloning Project**
