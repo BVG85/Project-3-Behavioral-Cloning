@@ -36,6 +36,7 @@ My project includes the following files:
 * [drive.py](https://github.com/BVG85/Project-3-Behavioral-Cloning/blob/master/drive.py) for driving the car in autonomous mode
 * [model.h5](https://github.com/BVG85/Project-3-Behavioral-Cloning/blob/master/model.h5) containing a trained convolution neural network 
 * writeup.md report (this file)
+* a [video](https://github.com/BVG85/Project-3-Behavioral-Cloning/blob/master/video_track1.mp4) recording of the car driving around the track in autonomous mode
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
@@ -108,6 +109,8 @@ After training the model with some degree of success, the left and right camera 
 ![alt text][image7]
 
 The images were not flipped in the final design. However two more laps were recorded, specifically on recovering from the side of the road back to the centre. One lap was recorded recovering from the left and another lap to record recovering from the right hand side of the road.
+
+All data was recorded in training mode, using the keyboard, to control acceleration and braking, and the mouse for steering. I found the mouse had finer and precise control allowing for smoother turns and corrections.
 
 ##### Example of recovering to centre data
 ![alt text][image4]
