@@ -82,7 +82,7 @@ Once the model was trained with this additional data set, the vehicle is able to
 
 The final model architecture can be seen in the visualization below.
 
-Here is a visualization of the architecture (note: visualizing the architecture is optional according to the project rubric)
+
 
 ![alt text][image1]
 
@@ -92,24 +92,18 @@ To capture good driving behavior, I first recorded two laps on track one using c
 
 ![alt text][image2]
 
-I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to .... These images show what a recovery looks like starting from ... :
-
-![alt text][image3]
-![alt text][image4]
-![alt text][image5]
+Then two laps were recorded of the vehicle driving the track in reverse, using center lane driving.  
 
 Then I repeated this process on track two in order to get more data points.
-
-To augment the data sat, I also flipped images and angles thinking that this would ... For example, here is an image that has then been flipped:
 
 ![alt text][image6]
 ![alt text][image7]
 
-Etc ....
+The images were not flipped in the final design. However two more laps were recorded, specifically on recovering from the side of the road back to the centre. One lap was recorded recovering from the left and another lap to record recovering from the right hand side of the road.
 
-After the collection process, I had X number of data points. I then preprocessed this data by ...
+![alt text][image6]
 
 
-I finally randomly shuffled the data set and put Y% of the data into a validation set. 
+Finally the data was shuffled and 20% of the data was placed into a validation set. 
 
-I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was Z as evidenced by ... I used an adam optimizer so that manually training the learning rate wasn't necessary.
+I used this training data for training the model. The model was trained for 10 epochs on a GPU. I used an adam optimizer so that manually training the learning rate wasn't necessary.
