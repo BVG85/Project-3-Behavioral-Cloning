@@ -109,6 +109,7 @@ After training the model with some degree of success, the left and right camera 
 
 The images were not flipped in the final design. However two more laps were recorded, specifically on recovering from the side of the road back to the centre. One lap was recorded recovering from the left and another lap to record recovering from the right hand side of the road.
 
+##### Example of recovering to centre data
 ![alt text][image4]
 
 
