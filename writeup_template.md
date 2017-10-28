@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./
 [image2]: ./centre_example.jpg "Centre Example"
-[image3]: ./examples/placeholder_small.png "Recovery Image"
+[image3]: ./centre_example_t2.jpg "Centre Example - Track 2"
 [image4]: ./examples/placeholder_small.png "Recovery Image"
 [image5]: ./examples/placeholder_small.png "Recovery Image"
 [image6]: ./examples/placeholder_small.png "Normal Image"
@@ -96,8 +96,7 @@ Then two laps were recorded of the vehicle driving the track in reverse, using c
 
 Then I repeated this process on track two in order to get more data points.
 
-![alt text][image6]
-![alt text][image7]
+![alt text][image3]
 
 The images were not flipped in the final design. However two more laps were recorded, specifically on recovering from the side of the road back to the centre. One lap was recorded recovering from the left and another lap to record recovering from the right hand side of the road.
 
